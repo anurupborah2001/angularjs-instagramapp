@@ -1,1 +1,1 @@
-# angularjs-instagramapp
+# Angular JS Instagram App
