@@ -47,7 +47,6 @@ assets/video/tour_*.mp4
 ehthumbs.db
 Thumbs.db
 
-# Exclude Node_modules and Bower #
+# Exclude Node_modules #
 ######################
 node_modules/*
-public/bower_components/*
